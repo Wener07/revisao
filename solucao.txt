@@ -1,0 +1,2 @@
+O problema seria a não sincronização, assim não possuindo as modificações feitas e casa
+e fazendo uma versão 2.B
